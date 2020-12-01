@@ -1,14 +1,15 @@
 # AIFFEL
-
-### 주관 : 모두의 연구소
-
-### 기간 : 2020.07.23 ~ 2020.12.23
-
-### 소속 : Computer Vision 1반, Team 3
+---
+- 주관 : 모두의 연구소
+- 기간 : 2020.07.23 ~ 2020.12.23
+- 소속 : Computer Vision 1반, Team 3
 
 이 레포지토리는 모두의 연구소에서 주관하는 인공지능 혁신학교 AIFFEL 강남에서 수행한 프로젝트들을 정리하기 위해서 만들었습니다!
 
-
+#### 참고링크
+---
+- [AIFFEL](https://aiffel.io/)
+- [AIFFEL 교육 후기 인터뷰 영상](https://youtu.be/983g9QHg5-s)
 
 ## Exploration
 
@@ -46,12 +47,10 @@
 | 30.musinc_transformer     |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/30.music_transformer)   |
 
 
-
-
 ## Going Deeper
 
 | 차례                               | Link |
-| ---------------------------------- | :----: |
+| :---------------------------------- | :----: |
 | 1. ResNet 구현하기                   |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Going_Deeper/01.ResNet_Ablation_Study)   |
 | 2. Data_Augmentation               |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Going_Deeper/02.Data_Augmentation_CutMix)   |
 | 3. Object Detection                |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Going_Deeper/03.Object_Detection)   |
