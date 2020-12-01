@@ -1,16 +1,15 @@
 # AIFFEL
+이 레포지토리는 모두의 연구소에서 주관하는 인공지능 혁신학교 AIFFEL 강남에서 수행한 프로젝트들을 정리하기 위해서 만들었습니다🔥   
 - 주관 : 모두의 연구소
 - 기간 : 2020.07.23 ~ 2020.12.23
 - 소속 : Computer Vision 1반, Team 3
 
-이 레포지토리는 모두의 연구소에서 주관하는 인공지능 혁신학교 AIFFEL 강남에서 수행한 프로젝트들을 정리하기 위해서 만들었습니다!  
-<br>
 #### 참고링크
-- [AIFFEL](https://aiffel.io/)
-- [AIFFEL 교육 후기 인터뷰 영상](https://youtu.be/983g9QHg5-s)
+- [AIFFEL👨‍💻](https://aiffel.io/)
+- [AIFFEL 교육 후기 인터뷰 영상🎞](https://youtu.be/983g9QHg5-s)
 <br>
 
-## Exploration
+## Exploration🗺
 
 | 차례                      | Link |
 | :------------------------- | :----: |
@@ -37,7 +36,7 @@
 | 21.transformer_chatbot    |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/21.transformer_chatbot)   |
 | 22.chest_xray             |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/22.chest_xray)   |
 | 23.sbr_movielens          |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/23.sbr_movielens)   |
-  | 24.pix2pix_unet_generator |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/24.pix2pix_unet_generator)   |
+| 24.pix2pix_unet_generator |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/24.pix2pix_unet_generator)   |
 | 25.speech_recognition     |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/25.speech_recognition)   |
 | 26.pretrained_bert        |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/26.pretrained_bert)   |
 | 27.UNet_medical           |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/27.UNet_medical)   |
@@ -46,7 +45,7 @@
 | 30.musinc_transformer     |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/30.music_transformer)   |
 
 
-## Going Deeper
+## Going Deeper🌊
 
 | 차례                               | Link |
 | :---------------------------------- | :----: |
