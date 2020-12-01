@@ -35,14 +35,14 @@
 | 19.SRGAN                  |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/19.SRGAN)   |
 | 20.anomaly_detection      |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/20.anomaly_detection)   |
 | 21.transformer_chatbot    |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/21.transformer_chatbot)   |
-| 22.chest_xray             |   :arrow_right:   |
-| 23.sbr_movielens          |   :arrow_right:   |
-| 24.pix2pix_unet_generator |   :arrow_right:   |
-| 25.speech_recognition     |   :arrow_right:   |
-| 26.pretrained_bert        |   :arrow_right:   |
-| 27.UNet_medical           |   :arrow_right:   |
-| 28.skip_ganomaly          |   :arrow_right:   |
-| 29.ainize                 |   :arrow_right:   |
+| 22.chest_xray             |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/22.chest_xray)   |
+| 23.sbr_movielens          |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/23.sbr_movielens)   |
+  | 24.pix2pix_unet_generator |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/24.pix2pix_unet_generator)   |
+| 25.speech_recognition     |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/25.speech_recognition)   |
+| 26.pretrained_bert        |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/26.pretrained_bert)   |
+| 27.UNet_medical           |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/27.UNet_medical)   |
+| 28.skip_ganomaly          |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/28.skip_ganomaly)   |
+| 29.ainize                 |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/29.ainize)   |
 | 30.musinc_transformer     |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Exploration/30.music_transformer)   |
 
 
@@ -52,9 +52,10 @@
 
 | 차례                               | Link |
 | ---------------------------------- | :----: |
-| 1. ResNet 구현하기                   |   :arrow_right:   |
-| 2. Data_Augmentation               |   :arrow_right:   |
-| 3. Object Detection                |   :arrow_right:   |
-| 4. Semantic Segmentation (U-Net++) |   :arrow_right:   |
-| 5. Cam, Grad-CAM                   |   :arrow_right:   |
+| 1. ResNet 구현하기                   |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Going_Deeper/01.ResNet_Ablation_Study)   |
+| 2. Data_Augmentation               |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Going_Deeper/02.Data_Augmentation_CutMix)   |
+| 3. Object Detection                |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Going_Deeper/03.Object_Detection)   |
+| 4. Semantic Segmentation (U-Net++) |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Going_Deeper/04.Semantic_Segmentation_UNet%2B%2B)   |
+| 5. Cam, Grad-CAM                   |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Going_Deeper/05.CAM_GradCam)   |
+| 6. OCR                             |   [:arrow_right:](https://github.com/ljh415/AIFFEL/tree/master/Going_Deeper/06.OCR)   |
 
